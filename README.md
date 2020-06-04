@@ -1,2 +1,2 @@
-# trainings
+# Trainings
 Training Repository for Art 
